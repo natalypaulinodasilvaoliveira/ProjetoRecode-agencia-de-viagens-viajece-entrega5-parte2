@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\viajeceofc_api.props" />
+</Project>
